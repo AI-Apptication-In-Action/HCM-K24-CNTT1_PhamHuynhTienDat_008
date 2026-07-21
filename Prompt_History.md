@@ -8,7 +8,7 @@
 ### 📌 Prompt 1: Phân tích Đề thi & Khởi tạo Tài liệu SRS, Task Checklist
 
 > **Role & Context:** Bạn là một Senior Core Banking Architect và AI Prompt Engineer trong lĩnh vực Tài chính - Ngân hàng.  
-> **Task:** Hãy đọc đề thi của bài tập mã đề `HCM-K24-CNTT1_PhamHuynhTienDat_008` và phân tích toàn bộ yêu cầu nghiệp vụ.  
+> **Task:** Hãy đọc kỹ base code `CoreBanking` và phân tích toàn bộ yêu cầu nghiệp vụ.  
 > **Requirements:**  
 > • Phác thảo file `SRS.md` chi tiết theo chuẩn Banking bao gồm: Tổng quan, Đặc tả nghiệp vụ rẽ nhánh lãi suất tất toán, Entity `TermDeposit`, Đặc tả RESTful API, và Xử lý Ngoại lệ HTTP `400 Bad Request`.  
 > • Phác thảo file `task.md` dưới dạng checklist các giai đoạn để quản lý tiến độ.  
